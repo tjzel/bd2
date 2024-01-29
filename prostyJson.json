@@ -1,0 +1,18 @@
+[
+  {
+    "numerIndeksu": 3221,
+    "dane osobowe": {
+      "imię": "Michał",
+      "drugie imię": "Roman",
+      "nazwisko": "Wolak"
+    },
+    "ocena": 4.5,
+    "zwolnienie z egzaminu": false
+  },
+  {
+    "numerIndeksu": 5843,
+    "dane osobowe": { "imię": "Karol", "nazwisko": "Koral" },
+    "ocena": 5,
+    "zwolnienie z egzaminu": true
+  }
+]
