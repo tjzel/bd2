@@ -1,0 +1,50 @@
+{
+  "nazwa firmy": "Gigasoft",
+  "adres": {
+    "ulica": "ul. Kolorowa 12",
+    "kod pocztowy": "12-345",
+    "miasto": "Wrocław"
+  },
+  "prezes": {
+    "imię": "Janusz",
+    "nazwisko": "Januszowski"
+  },
+  "pracownicy": [
+    {
+      "imię": "Michał",
+      "nazwisko": "Wolak",
+      "stanowisko": "programista",
+      "umiejętności": ["C#", "T-SQL", "JavaScript"]
+    },
+    {
+      "imię": "Dariusz",
+      "nazwisko": "Maj",
+      "stanowisko": "programista",
+      "umiejętności": [
+        "C#",
+        "C++",
+        "Kubernetes",
+        "MongoDB",
+        "Rust",
+        "Cobol",
+        "Fortran",
+        "Pascal",
+        "Delphi",
+        "Python"
+      ]
+    },
+    {
+      "imię": "Karol",
+      "nazwisko": "Koral",
+      "stanowisko": "elektryk",
+      "certyfikaty": [
+        "E14",
+        "E15",
+        {
+          "nazwa": "E16",
+          "data ważności": "2020-12-31"
+        }
+      ]
+    }
+  ]
+}
